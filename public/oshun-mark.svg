@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">OSHUN 4C Hair Rituals brand mark</title>
+  <desc id="desc">Four golden arcs form a coil around a cream water drop.</desc>
+  <g fill="none" stroke="#c9a96e" stroke-width="4.5" stroke-linecap="round">
+    <path d="M35.8 5.3A27 27 0 0 1 58.7 28.2"/>
+    <path d="M58.7 35.8A27 27 0 0 1 35.8 58.7"/>
+    <path d="M28.2 58.7A27 27 0 0 1 5.3 35.8"/>
+    <path d="M5.3 28.2A27 27 0 0 1 28.2 5.3"/>
+  </g>
+  <path fill="#f0ebe0" d="M32 16.5S21.8 28.8 21.8 37.1A10.2 10.2 0 0 0 32 47.3a10.2 10.2 0 0 0 10.2-10.2C42.2 28.8 32 16.5 32 16.5Z"/>
+</svg>
